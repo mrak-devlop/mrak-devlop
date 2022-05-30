@@ -2,6 +2,9 @@
 - 👀 I’m interested in programming on Kotlin
 - 🌱 I’m currently learning android devlopment
 - 📫 How to reach me t.me/Kit_factory
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrak-devlop)](https://github.com/mrak-devlop/github-readme-stats)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrak-devlop&hide=contribs,prs)
 <!---
 mrak-devlop/mrak-devlop is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
